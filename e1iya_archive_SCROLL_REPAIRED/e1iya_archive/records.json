@@ -1,0 +1,53 @@
+[
+  {
+    "id": "REC.003",
+    "title": "Java Card Game",
+    "file": "card_game.md",
+    "date": "2026-10-29",
+    "folder": "projects",
+    "tags": [
+      "Java",
+      "Project"
+    ],
+    "featured": false,
+    "summary": "A small object-oriented card comparison game."
+  },
+  {
+    "id": "REC.002",
+    "title": "APT Simulation Notes",
+    "file": "apt_simulation.md",
+    "date": "2026-11-03",
+    "folder": "security/apt",
+    "tags": [
+      "Security",
+      "Research"
+    ],
+    "featured": true,
+    "summary": "Controlled BAS simulation and verification notes."
+  },
+  {
+    "id": "REC.001",
+    "title": "Understanding Deadlocks",
+    "file": "deadlock_notes.md",
+    "date": "2026-11-05",
+    "folder": "study/os",
+    "tags": [
+      "OS",
+      "Study"
+    ],
+    "featured": true,
+    "summary": "Deadlock, resource allocation, and safety algorithm research notes."
+  },
+  {
+    "id": "REC.004",
+    "title": "Process Synchronization",
+    "file": "process_sync.md",
+    "date": "2026-10-28",
+    "folder": "study/os",
+    "tags": [
+      "OS"
+    ],
+    "featured": false,
+    "summary": "Notes about synchronization and critical sections."
+  }
+]
